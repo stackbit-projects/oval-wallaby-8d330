@@ -88,7 +88,7 @@ const IndexPage = () => (
         <Header />
         <div className="content">
           <span className="image fill" data-position="center">
-            <img src={heroImage} alt="" />
+            <img src={heroImage} alt="라라라라" />
           </span>
         </div>
       </section>
